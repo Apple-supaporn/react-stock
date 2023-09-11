@@ -24,10 +24,6 @@ const Stock = () => {
     // // const [update, setUpdate] = useState(0)
     // // useEffect(() => {
     //     getStock()
-    //     // setTimeout(()=>{
-    //     //     setUpdate(update + 1)
-    //     // }, 20000)
-    //     // }, [update])
     // },[])
 
     const loading = () => {
